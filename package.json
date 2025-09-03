@@ -1,22 +1,22 @@
 {
-  "name": "fca-shankar-bot",
+  "name": "fca-sagor-bot",
   "version": "20.1.0",
-  "description": "Facebook-chat-api made by Smart Shankar",
+  "description": "Facebook-chat-api made by Smart Sagor",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
     "lint": "./node_modules/.bin/eslint **.js",
     "prettier": "prettier utils.js src/* --write"
   },
-  "author": "Smart Shankar",
+  "author": "SaGor",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SHANKAR-PROJECT/try/issues"
+    "url": "https://github.com/Uzi-SaGor-01/try/issues"
   },
-  "homepage": "https://github.com/SHANKAR-PROJECT/try#readme",
+  "homepage": "https://github.com/Uzi-SaGor-01/try#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SHANKAR-PROJECT/try.git"
+    "url": "https://github.com/Uzi-SaGor-01/try.git"
   },
   "dependencies": {
     "aes-js": "latest",
@@ -90,9 +90,9 @@
   "keywords": [
     "facebook-chat-api",
     "fb-chat-api",
-    "Fca Shankar",
-    "fca-smart-shankar",
-    "fca-shankar-bot",
-    "Smart Shankar"
+    "Fca Sagor",
+    "fca-sagor",
+    "fca-sagor-bot",
+    "Sagor"
   ]
 }
